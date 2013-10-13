@@ -1,6 +1,6 @@
 require 'browser/compatibility/dom/document/window'
 
-require 'browser/compatibility/dom/mutation_observer'
+# require 'browser/compatibility/dom/mutation_observer'
 
 require 'browser/compatibility/dom/element/matches'
 require 'browser/compatibility/dom/element/css'
